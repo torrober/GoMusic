@@ -1,3 +1,4 @@
+# GoMusic
 Weekend project from 2019 that i did before graduating from High School. 
 
 ### Built with, JS, jQuery, PHP, the Deezer API, & the YT Data API 3.
