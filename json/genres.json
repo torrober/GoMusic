@@ -1,0 +1,193 @@
+{
+    "data": [
+        {
+            "attributes": {
+                "name": "Alternative"
+            },
+            "href": "/v1/catalog/us/genres/20",
+            "id": "20",
+            "type": "genres",
+            "color" : "blue"
+        },
+        {
+            "attributes": {
+                "name": "Blues"
+            },
+            "href": "/v1/catalog/us/genres/2",
+            "id": "2",
+            "type": "genres",
+            "color" : "yellow"
+        },
+        {
+            "attributes": {
+                "name": "Children's Music"
+            },
+            "href": "/v1/catalog/us/genres/4",
+            "id": "4",
+            "type": "genres",
+            "color" : "green"
+        },
+        {
+            "attributes": {
+                "name": "Christian & Gospel"
+            },
+            "href": "/v1/catalog/us/genres/22",
+            "id": "22",
+            "type": "genres",
+            "color" : "red"
+        },
+        {
+            "attributes": {
+                "name": "Classical"
+            },
+            "href": "/v1/catalog/us/genres/5",
+            "id": "5",
+            "type": "genres",
+            "color" : "blue"
+        },
+        {
+            "attributes": {
+                "name": "Comedy"
+            },
+            "href": "/v1/catalog/us/genres/3",
+            "id": "3",
+            "type": "genres",
+            "color" : "yellow"
+        },
+        {
+            "attributes": {
+                "name": "Country"
+            },
+            "href": "/v1/catalog/us/genres/6",
+            "id": "6",
+            "type": "genres",
+            "color" : "green"
+        },
+        {
+            "attributes": {
+                "name": "Dance"
+            },
+            "href": "/v1/catalog/us/genres/17",
+            "id": "17",
+            "type": "genres",
+            "color" : "red"
+        },
+        {
+            "attributes": {
+                "name": "Electronic"
+            },
+            "href": "/v1/catalog/us/genres/7",
+            "id": "7",
+            "type": "genres",
+            "color" : "blue"
+        },
+        {
+            "attributes": {
+                "name": "Fitness & Workout"
+            },
+            "href": "/v1/catalog/us/genres/50",
+            "id": "50",
+            "type": "genres",
+            "color" : "yellow"
+        },
+        {
+            "attributes": {
+                "name": "Hip-Hop/Rap"
+            },
+            "href": "/v1/catalog/us/genres/18",
+            "id": "18",
+            "type": "genres",
+            "color" : "green"
+        },
+        {
+            "attributes": {
+                "name": "Jazz"
+            },
+            "href": "/v1/catalog/us/genres/11",
+            "id": "11",
+            "type": "genres",
+            "color" : "red"
+        },
+        {
+            "attributes": {
+                "name": "K-Pop"
+            },
+            "href": "/v1/catalog/us/genres/51",
+            "id": "51",
+            "type": "genres",
+            "color" : "blue"
+        },
+        {
+            "attributes": {
+                "name": "Latino"
+            },
+            "href": "/v1/catalog/us/genres/12",
+            "id": "12",
+            "type": "genres",
+            "color" : "yellow"
+        },
+        {
+            "attributes": {
+                "name": "Metal"
+            },
+            "href": "/v1/catalog/us/genres/1153",
+            "id": "1153",
+            "type": "genres",
+            "color" : "green"
+        },
+        {
+            "attributes": {
+                "name": "Pop"
+            },
+            "href": "/v1/catalog/us/genres/14",
+            "id": "14",
+            "type": "genres",
+            "color" : "red"
+        },
+        {
+            "attributes": {
+                "name": "R&B/Soul"
+            },
+            "href": "/v1/catalog/us/genres/15",
+            "id": "15",
+            "type": "genres",
+            "color" : "blue"
+        },
+        {
+            "attributes": {
+                "name": "Reggae"
+            },
+            "href": "/v1/catalog/us/genres/24",
+            "id": "24",
+            "type": "genres",
+            "color" : "yellow"
+        },
+        {
+            "attributes": {
+                "name": "Rock"
+            },
+            "href": "/v1/catalog/us/genres/21",
+            "id": "21",
+            "type": "genres",
+            "color" : "green"
+        },
+        {
+            "attributes": {
+                "name": "Soundtrack"
+            },
+            "href": "/v1/catalog/us/genres/16",
+            "id": "16",
+            "type": "genres",
+            "color" : "red"
+        },
+        {
+            "attributes": {
+                "name": "World"
+            },
+            "href": "/v1/catalog/us/genres/19",
+            "id": "19",
+            "type": "genres",
+            "color" : "blue"
+        }
+    ]
+}

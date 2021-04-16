@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function showDetails(animal) {
+  var animalType = animal.getAttribute("data-animal-type");
+  var specie = animal.getAttribute("data-artist");
+  alert("This is " + animal.innerHTML + " by " + specie + ".");
+  window.open("https://www.youtube.com/embed/" + animalType + "?autoplay=1", "mywindow","width=800,height=600")
+}
+</script>
+</head>
+<body>
+
+<h1>Species</h1>
+<p>Click on a species to see what type it is:</p>
+
+<ul>
+  <li onclick="showDetails(this)" id="owl" data-animal-type="nKhN1t_7PEY" data-artist="Mr. Mister">Broken Wings</li>
+  <li onclick="showDetails(this)" id="salmon" data-animal-type="rblt2EtFfC4" data-artist="Prince">1999</li>  
+  <li onclick="showDetails(this)" id="tarantula" data-animal-type="zhyaAPsT1LU" data-artist="Queen">Headlong</li>  
+</ul>
+
+</body>
+</html>

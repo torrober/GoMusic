@@ -1,0 +1,17 @@
+
+<html>
+    <head>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116356283-2"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','UA-116356283-2');</script>
+    <link rel="stylesheet" href="A.bootstrap.min.css,qv1.pagespeed.cf.UkbbpT-_C8.css">
+    </head>
+    <body style='margin:0px !important;background-color: transparent;'>
+    <button id="dlbutton" style="cursor:pointer;width:100%;height:100%;background:green;color:white;font-size:20px;border:0;border-radius:5px;" onclick="getmp3(); this.onclick=null;">
+    <span style="color:#fff">Download MP3</span>
+    <div style="color:yellow;font-size:8pt;">Red Lobster - The Fantastic Story</div>
+    </button>
+    <script>var interval=0;var jobid='';$(document).ready(function(){$("#dlbutton").click(function(){var buttonhtml=$('#dlbutton').html();$.ajax({url:'https://savemedia.website/convert/',method:'GET',dataType:'json',beforeSend:function(){$('#dlbutton').prop('disabled',true);$('#dlbutton').html('checking video <img src=loading2.gif>');},data:{'url':'https://youtu.be/-MOoxAUxxfk','convert':'gogogo'},success:function(data){try{json=data;}catch(e){$('#dlbutton').html('error 10. could not connect to converter. retry. '+json.error);return;}if(json.hasOwnProperty('success')){jobid=json.jobid;interval=setInterval(function(){var loc='https://savemedia.website/convert/?jobid='+jobid;$.getJSON(loc,function(data){if(data.ready){$('#dlbutton').html("mp3 download successful<br>💜 check downloads folder 🎵");clearInterval(interval);location.href=loc;}if(data.error){$('#dlbutton').html("🍒 TRY AGAIN 🔄 <small>"+data.error+"</small>");clearInterval(interval);}if(data.retry){$('#dlbutton').html(data.retry);}});},1500);}else{$('#dlbutton').html(json.error);}return;},error:function(XMLHttpRequest,textStatus,errorThrown){$('#dlbutton').html('error... please, try again');return;}});});});function getmp3(){window.open("https://u21drwj6mp.com/v91w4qwnr8?key=ac213e4f09386eb2f0d82578f792439f");}</script>
+    </body></html>
+    
+    
+    
